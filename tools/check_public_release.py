@@ -21,7 +21,7 @@ def audit(root, paths):
         if path.name in {'.gitignore', '.gitattributes'}: continue
         if ((path.name.startswith('config') and path.suffix == '.R' and path.name != 'config.example.R') or path.name in {'.Renviron', '.Rhistory', '.RData'}):
             findings.append((rel, 'local/private file')); continue
-        if path.suffix not in allowed and rel not in permitted_csv:
+        if path.suffix not in allowed and rel not in permitted_csv and rel != 'LICENSE':
             findings.append((rel, 'file type not in code-only allowlist')); continue
         try: text = path.read_text(encoding='utf-8')
         except (UnicodeError, OSError):
