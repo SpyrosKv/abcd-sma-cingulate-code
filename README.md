@@ -74,4 +74,4 @@ The file allowlist and scanner supplement manual review; they do not certify ins
 
 Author attribution is provided in `CITATION.cff`. After a versioned repository release is archived in a citable repository, add the actual repository URL and DOI to that file and cite the archived version in the manuscript. No DOI is asserted by this source package.
 
-No software reuse licence has been specified. Public access to source code does not itself grant additional reuse rights; a licence may be added by the relevant rights holders. ABCD data access and reuse remain governed separately by the applicable data-use terms.
+The analysis code is distributed under the [MIT License](LICENSE). This licence applies to the code and does not grant access to, or redistribution rights for, ABCD participant data. ABCD data access and reuse remain governed separately by the applicable data-use terms.
