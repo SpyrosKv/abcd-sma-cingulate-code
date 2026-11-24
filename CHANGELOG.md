@@ -2,6 +2,8 @@
 
 ## 1.0.1 — 25 November 2026
 
+- Added the MIT licence selected by the repository maintainer and aligned citation metadata and release checks.
+
 - Documented the completed local full-workflow verification: 14 matching settings, six matching primary network inputs/graphs and 109 exact analysis-table matches.
 - Documented byte-identical reproduction of the revised six 10,000-permutation comparisons.
 - Preserved all statistical R files exactly as locally executed.
