@@ -17,3 +17,5 @@ authors:
     given-names: Robin
   - family-names: Stavropoulos
     given-names: Vasileios
+license: MIT
+repository-code: "https://github.com/SpyrosKv/abcd-sma-cingulate-code"
