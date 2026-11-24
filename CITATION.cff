@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Please cite this analysis code alongside the associated manuscript."
+title: "Analysis code for Social Media Addiction Symptoms and Cingulate White-Matter MRI Measures in Adolescent Social Media Users: A Cross-Wave Network Analysis of the ABCD Study"
+type: software
+version: 1.0.1
+date-released: 2026-11-25
+authors:
+  - family-names: Shahbaz
+    given-names: Kanwal
+  - family-names: Kavvadias
+    given-names: Spyridon
+  - family-names: Zarate
+    given-names: Daniel
+  - family-names: Hein
+    given-names: Kaiden
+  - family-names: Laycock
+    given-names: Robin
+  - family-names: Stavropoulos
+    given-names: Vasileios
